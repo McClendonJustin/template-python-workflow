@@ -1,0 +1,10 @@
+# Python / Pytest
+__pycache__/
+.pytest_cache/
+venv/
+.venv/
+
+# Docker / environment
+.env
+.env.*
+!.env.example

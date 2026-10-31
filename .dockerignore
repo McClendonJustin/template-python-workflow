@@ -1,0 +1,13 @@
+# Documentation & Local Scripts
+README.md
+run.sh
+
+# Git artifacts
+.git
+.gitignore
+
+# Python artifacts
+__pycache__/
+.pytest_cache/
+venv/
+.venv/
